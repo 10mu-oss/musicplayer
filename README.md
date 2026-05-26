@@ -1,14 +1,13 @@
 1. 뮤직플레이어 개요
 
- HTML,CSS,JAVASCRIPT를 활용하여 제작한 뮤직플레이어 애플리케이션입니다.
-
- 사용자는 음악재새, 일시정지, 이전곡/다음곡 이동, 반복재생 설정, 볼륨조절등의 기능을 사용할 수 있으며 진행바를  통해 현재 재생위치 확인과 이동을 할 수 있습니다.
+  HTML,CSS,JAVASCRIPT를 활용하여 제작한 뮤직플레이어 애플리케이션입니다.
+  사용자는 음악재새, 일시정지, 이전곡/다음곡 이동, 반복재생 설정, 볼륨조절등의 기능을 사용할 수 있으며 진행바를  통해 현재 재생위치 확인과 이동을 할 수 있습니다.
 
 2. 사용기술
- HTML5
- CSS3
- JAVASCRIPT
- Google Meterial Icons
+ -HTML5
+ -CSS3
+ -JAVASCRIPT
+ -Google Meterial Icons
 
 3. 주요기능
  - 음악 재생 / 일시정지
@@ -32,14 +31,14 @@
     곡 변경시 앨범 이미지 변경,
     제목과 아티스트 정보 변경
 
-  - 볼륨 조절 가능
+ - 볼륨 조절 가능
      슬라이더를 이용한 볼륨 조절,
      음소거 상태 아이콘 변경
 
 4. 프로젝트 폴더 구조
-    -project
-        -index.html
-        -music_list.js
-        -audio/ mp3 파일들
-        -images/ jpg 파일들
+ -project
+ -index.html
+ -music_list.js
+ -audio/ mp3 파일들
+ -images/ jpg 파일들
      
