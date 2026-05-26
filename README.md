@@ -37,9 +37,9 @@
      음소거 상태 아이콘 변경
 
 4. 프로젝트 폴더 구조
-    project
-        index.html
-        music_list.js
-        audio/ mp3 파일들
-        images/ jpg 파일들
+    -project
+        -index.html
+        -music_list.js
+        -audio/ mp3 파일들
+        -images/ jpg 파일들
      
